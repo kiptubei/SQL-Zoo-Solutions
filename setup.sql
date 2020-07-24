@@ -15,4 +15,3 @@ FROM country;
 
 SELECT * FROM world;
 
-SELECT * FROM country;
